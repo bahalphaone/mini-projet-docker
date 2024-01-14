@@ -52,6 +52,7 @@ Considering you just have cloned this repository, you have to follow those steps
 2- Create a bridge-type network for the two containers to be able to contact each other by their names thanks to dns functions :
 ![NetworkPNG](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/e7744f53-4304-4166-8748-1f0d8912df06)
 
-- We double Ckeck if the network is create 
-![check network](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/966fcbe9-1f41-4fee-a301-4b9877518217)
+ We double Ckeck if the network is create
+
+  ![check network](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/966fcbe9-1f41-4fee-a301-4b9877518217)
 
