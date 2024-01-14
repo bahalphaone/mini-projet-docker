@@ -65,5 +65,11 @@ Considering you just have cloned this repository, you have to follow those steps
   ![container](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/6a299665-356f-4912-a0e1-e771b0b0527c)
 
 
-  
+  4- 
+    Test the api through the frontend :
+ Using command line :
+
+The next command will ask the frontend container to request the backend api and show you the output back. The goal is to test both if the api works and if frontend can get the student list from it.
+
+![list-student](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/5557d5b3-5e0a-4438-9b47-5050b56932ef)
 
