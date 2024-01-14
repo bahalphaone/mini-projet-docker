@@ -45,6 +45,6 @@ Considering you just have cloned this repository, you have to follow those steps
 
     Change directory and build the api container image :
 
- 
+ ![Capture](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c30a41a4-dc0c-4365-b16d-dd02c3459a97)
 
 
