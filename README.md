@@ -57,3 +57,13 @@ Considering you just have cloned this repository, you have to follow those steps
 
   ![check network](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/966fcbe9-1f41-4fee-a301-4b9877518217)
 
+  3- Move back to the root dir of the project and run the backend api container with those arguments :
+
+  cd .. 
+  docker run -d --network pozos --name test-api-pozos -v ${PWD}/student_age.json:/data/student_age.json -p 4000:5000 api-pozos:v1
+
+  ![container](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/6a299665-356f-4912-a0e1-e771b0b0527c)
+
+
+  
+
