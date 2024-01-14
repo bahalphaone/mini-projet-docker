@@ -43,10 +43,15 @@ In my delivery you can find three main files : a Dockerfile, a docker-compose.ym
 # Build and test
 Considering you just have cloned this repository, you have to follow those steps to get the 'student_list' application ready :
 
-    Change directory and build the api container image :
+    1- Change directory and build the api container image :
 
  ![Capture](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c30a41a4-dc0c-4365-b16d-dd02c3459a97)
 
  ![Images-Docker-images-POZO](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/af69cdbd-fbfc-4716-b72b-c81869c91826)
 
+2- Create a bridge-type network for the two containers to be able to contact each other by their names thanks to dns functions :
+![NetworkPNG](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/e7744f53-4304-4166-8748-1f0d8912df06)
+
+- We double Ckeck if the network is create :
+  ![check network](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/966fcbe9-1f41-4fee-a301-4b9877518217)
 
