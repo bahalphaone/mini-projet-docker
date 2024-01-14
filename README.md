@@ -47,4 +47,6 @@ Considering you just have cloned this repository, you have to follow those steps
 
  ![Capture](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c30a41a4-dc0c-4365-b16d-dd02c3459a97)
 
+ ![Images-Docker-images-POZO](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/af69cdbd-fbfc-4716-b72b-c81869c91826)
+
 
