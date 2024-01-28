@@ -13,7 +13,7 @@ Period : march-april-may
 Sunday the 14th, Janaury 2024
 
 
-#THE GOAL of this Mini-Project :
+# THE GOAL of this Mini-Project :
 
 the goal of this project is to embed an application in a docker container.
 The project has three main parts:
