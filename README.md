@@ -1,7 +1,4 @@
 # mini-projet-docker
-# DESING STUDENT-LIST PROJECT
-
-![ARCHI](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3e4c6bd9-1927-4251-8ce5-62383871d166)
 
 Firstname : BAH
 
@@ -12,6 +9,12 @@ For Eazytraining's 17th DevOps Bootcamp
 Period : march-april-may
 
 Sunday the 14th, Janaury 2024
+
+# DESING STUDENT-LIST PROJECT
+
+![ARCHI](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3e4c6bd9-1927-4251-8ce5-62383871d166)
+
+
 
 # Application
 
