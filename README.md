@@ -12,25 +12,34 @@ Period : march-april-may
 
 Sunday the 14th, Janaury 2024
 
-# DESING STUDENT-LIST PROJECT
 
-![ARCHI](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3e4c6bd9-1927-4251-8ce5-62383871d166)
+#THE GOAL of this Mini-Project
 
+the goal of this project is to embed an application in a docker container.
+The project has three main parts:
+1- BUILd : this involves writing a Dockerfile with the instructions given in the statement, and testing the application with a "CURL" command provided in the statement, which is supplied with identifiers. 
+2- IAC : set up the automation part with the As Code infrastructure using Docker compose (this tool enables us to automatize our containerized application).
 
+3-  Registry: In this part, we're asked to create a private Registry to store our own images.
+4-  IHM of the Registry: Here we could consult our own images that we've uploaded to our private registry
 
-# Application
+Translated with DeepL.com (free version)
 
 I had to deploy an application named "student_list", which is very basic and enables POZOS to show the list of some students with their age.
 student_list application has two modules:
     The first module is a REST API (with basic authentication needed) who send the desire list of the student based on JSON file
     The second module is a web app written in HTML + PHP who enable end-user to get a list of student
     
- # The need
 
- My work was to :
-    build one container for each module
-    make them interact with each other
-    provide a private registry
+
+# DESING STUDENT-LIST PROJECT
+
+![ARCHI](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3e4c6bd9-1927-4251-8ce5-62383871d166)
+
+
+ # The Explain the architecture of POZOS application:
+
+
 # My plan
 
 First, let me introduce you the six files of this project and their role
