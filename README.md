@@ -1,5 +1,6 @@
 # mini-projet-docker
 
+Please find the specifications by clicking [Here](https://github.com/diranetafen/student-list)
 Firstname : BAH
 
 Surname : MAMADOU ALPHA
