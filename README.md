@@ -17,10 +17,13 @@ Sunday the 14th, Janaury 2024
 
 the goal of this project is to embed an application in a docker container.
 The project has three main parts:
+
 1- BUILd : this involves writing a Dockerfile with the instructions given in the statement, and testing the application with a "CURL" command provided in the statement, which is supplied with identifiers. 
+
 2- IAC : set up the automation part with the As Code infrastructure using Docker compose (this tool enables us to automatize our containerized application).
 
 3-  Registry: In this part, we're asked to create a private Registry to store our own images.
+
 4-  IHM of the Registry: Here we could consult our own images that we've uploaded to our private registry
 
 Translated with DeepL.com (free version)
