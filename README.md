@@ -82,6 +82,7 @@ Considering you just have cloned this repository, you have to follow those steps
 
   cd .. 
   docker run -d --network pozos --name test-api-pozos -v ${PWD}/student_age.json:/data/student_age.json -p 4000:5000 api-pozos:v1
+  Here the port 4000 of the VM "Eazytraining" will forward by the port 5000 of our container "test-api"
 
   ![container](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/6a299665-356f-4912-a0e1-e771b0b0527c)
 
