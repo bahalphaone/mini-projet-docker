@@ -95,3 +95,7 @@ The next command will ask the frontend container to request the backend api and 
 
 ![list-student](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/5557d5b3-5e0a-4438-9b47-5050b56932ef)
 
+I'm using the hostname IP "127.0.0.1" beacause i'm in localy.
+
+![localhost](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/463bff07-a2a4-4a0a-a5b3-ecb834217615)
+
