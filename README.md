@@ -100,3 +100,5 @@ my application which responds from the "student_age.json" script" giving me the 
 
 ![localhost](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/463bff07-a2a4-4a0a-a5b3-ecb834217615)
 
+**so far I'm validating the Build and Test part of my muni docker project.**
+
