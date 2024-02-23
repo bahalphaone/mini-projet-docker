@@ -111,4 +111,4 @@ Let me remove the test container and the test network before to lauch the automa
 
 ![network-delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3c2141b4-d3a3-4d8d-b727-072ca8ec9b6f)
 
-![docker delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/7fefeac3-32db-4f2f-9ee3-0a51747c9181)
+
