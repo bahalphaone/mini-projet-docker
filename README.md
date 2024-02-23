@@ -119,5 +119,3 @@ docker-compose up -d
 ![ne](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c4163494-e7d2-4865-a7f2-e693a3147a70)
 
 
-![2containers](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/15fa3737-b184-43ea-b3ea-ab3a71609031)
-
