@@ -118,4 +118,11 @@ docker-compose up -d
 
 ![ne](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c4163494-e7d2-4865-a7f2-e693a3147a70)
 
+We try to test, if we can reach our website via the port of the Eazytraining VM.
+![port](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/fa183485-3786-47a2-9e9b-82b8c14cd65b)
+
+We cannot see the list of the student because we don't fill the folow parameters "(http://<api_ip_or_name:port>/pozos/api/v1.0/get_student_ages)"
+
+![check](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/5a007514-f274-4f79-b586-6fe7bfe5f7ca)
+
 
