@@ -105,3 +105,10 @@ my application which responds from the "student_age.json" script" giving me the 
 # Infrastructure As Code 
 we need to set up a docker compose that will allow us to automate the deployment of our infrastructure.
 The goal is to create a second "website" container with the required recommendations.
+
+Let me remove the test container and the test network before to lauch the automatic scritp to provisonne my cinfrastructure via "Docker compose"
+![docker delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/7fefeac3-32db-4f2f-9ee3-0a51747c9181)
+
+![network-delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3c2141b4-d3a3-4d8d-b727-072ca8ec9b6f)
+
+![docker delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/7fefeac3-32db-4f2f-9ee3-0a51747c9181)
