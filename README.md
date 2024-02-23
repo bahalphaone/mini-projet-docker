@@ -125,4 +125,6 @@ We cannot see the list of the student because we don't fill the folow parameters
 
 ![check](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/5a007514-f274-4f79-b586-6fe7bfe5f7ca)
 
+let fix it, we have to go in the follow path "website/index.php"
+
 
