@@ -127,4 +127,5 @@ We cannot see the list of the student because we don't fill the folow parameters
 
 let fix it, we have to go in the follow path "website/index.php"
 
+![numport](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/e079bbd9-814b-4c1c-a368-2be0c2ea0aa6)
 
