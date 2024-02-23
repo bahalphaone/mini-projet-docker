@@ -111,7 +111,8 @@ Let me remove the test container and the test network before to lauch the automa
 
 ![network-delete](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/3c2141b4-d3a3-4d8d-b727-072ca8ec9b6f)
 
-let build the docker-copose file with the following comand :
+let build the docker-compose file with the following comand to create the network and both containerthe website and the api :
+
 docker-compose up -d 
 ![Docker-copose](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/9051e1a7-1729-44e4-b1e8-ac8f0598f6a2)
 
