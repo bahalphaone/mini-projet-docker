@@ -116,5 +116,8 @@ let build the docker-compose file with the following comand to create the networ
 docker-compose up -d 
 ![Docker-copose](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/9051e1a7-1729-44e4-b1e8-ac8f0598f6a2)
 
+![ne](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c4163494-e7d2-4865-a7f2-e693a3147a70)
+
+
 ![2containers](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/15fa3737-b184-43ea-b3ea-ab3a71609031)
 
