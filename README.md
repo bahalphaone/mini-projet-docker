@@ -132,5 +132,7 @@ let fix it, we have to go in the follow path "website/index.php"
 ![fixed](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/343a7f86-be90-42f4-91ab-4e214b2d4622)
 
 I fixed because i change my Docker-compose file to include the parameter "container_name" sto have the resolution DNS beteween the containers.
-![list-student](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/679132d0-00b6-4be0-9f30-9e616491880c)
+
+![liste-student](https://github.com/bahalphaone/mini-projet-docker/assets/36479531/c2093fd7-71e1-44d2-ae52-5d08836d456a)
+
 
